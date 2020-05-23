@@ -22,7 +22,7 @@ taken in 5 minute intervals each day.
 
 ## Loading and preprocessing the data
 
-First, we will unzip the data zip file (if not already done) and load the .csv 
+First, we will unzip the data zip file (if not already done) and read the .csv 
 file into R as a data frame.
 
 ```{r load}
